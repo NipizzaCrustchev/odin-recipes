@@ -1,2 +1,3 @@
 # odin-recipes
 Odin recipe book project
+This project is a recipe book to preserve some of my ancestors' most cherished gastrononmical knowledge. In this project I will my demonstrate my ability to organize information using the HTML language as well as my ability to create lovely links and images to entice readers into sampling my cultural heritage. Additionally I will practice writing Git commit messages. 
